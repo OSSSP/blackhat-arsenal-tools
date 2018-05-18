@@ -56,7 +56,7 @@ _This project has been developed as Term Project at Middle East Technical Univer
 
 ### Black Hat sessions
 
-[![Black Hat Arsenal USA](https://www.toolswatch.org/badges/arsenal/2016.svg)](https://www.blackhat.com/us-16/arsenal.html#web-service-security-assessment-tool-wssat) [![Black Hat Arsenal Europe](https://www.toolswatch.org/badges/arsenal/2016.svg)](https://www.blackhat.com/eu-16/arsenal.html#wssat-web-service-security-assessment-tool)
+[![Black Hat Arsenal USA](https://github.com/toolswatch/badges/blob/master/arsenal/usa/2016.svg)](https://www.blackhat.com/us-16/arsenal.html#web-service-security-assessment-tool-wssat) [![Black Hat Arsenal Europe](https://github.com/toolswatch/badges/blob/master/arsenal/europe/2016.svg)](https://www.blackhat.com/eu-16/arsenal.html#wssat-web-service-security-assessment-tool)
 
 ### Code
 https://github.com/YalcinYolalan/WSSAT
